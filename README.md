@@ -1,2 +1,24 @@
-# Weather-App
-A weather forecast web application using Vue.js that dynamically changes its background image based on the current temperature and weather conditions. This application aims to provide users with an engaging visual experience while also delivering accurate weather information.
+# appweather
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
